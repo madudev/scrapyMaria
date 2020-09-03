@@ -16,4 +16,4 @@ O site escolhido para raspagem foi [Sary Alternative Store](https://saryalternat
 
 `$ pip3 install beautifulsoup4`
 
-`$ pip install requests`
+`$ pip3 install requests`
