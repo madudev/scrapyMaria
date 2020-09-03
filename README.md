@@ -6,7 +6,7 @@ Beautiful Soup é um pacote Python para analisar documentos HTML e XML. Ele cria
 Já o Requests é uma biblioteca HTTP Python, lançada sob a Apache License 2.0. O objetivo do projeto é tornar as solicitações HTTP mais simples e mais amigáveis ao ser humano
 
 
-O site escolhido para raspagem foi [Sary Alternative Store](https://saryalternativestore.loja2.com.br), aonde as informoções de todos os produtos foram extraidos convertidos em uma string e salvos em um arquivo txt.
+O site escolhido para raspagem foi [Sary Alternative Store](https://saryalternativestore.loja2.com.br), aonde as informoções de todos os produtos foram extraídos, convertidos em uma string e salvos em um arquivo txt.
 
 <h3> Para testagem do código será necessário ter o python 3 e dependências instalados em sua máquina, para isso basta usar o comando no terminal:<h3>
 
